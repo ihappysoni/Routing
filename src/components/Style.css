@@ -1,0 +1,38 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    background: rgb(17, 17, 98);
+    font-style: italic;
+}
+.links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+li{
+    color: aquamarine;
+    font-weight: 650;
+    font-size: 25px;
+}
+h3{
+    color: aquamarine;
+}
+table{
+    margin-top: 10px;
+}
+.abc{
+    margin-top: 0px;
+    height: 50%;
+    width: 100%;
+}
+.write{
+    font-size:40px;
+    font-weight: bolder;
+    color: rgb(69, 4, 86);
+    font-style: oblique;
+}
